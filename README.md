@@ -17,6 +17,8 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Firebase Analytics](https://firebase.google.com/policies/analytics)
 
 **Log Data**
 
@@ -58,4 +60,5 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+ 
 knox_good_price_developer@mail.ru
